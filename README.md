@@ -7,14 +7,11 @@ Chumbak Web is a vibrant, user-friendly e-commerce platform designed to reflect 
 
 **Interactive Product Gallery:** Display products with high-quality images, hover effects, and quick-view modals.
 
+**Cart Management:** Add and remove items dynamically using JavaScript.
 
-**Cart Management:**Add and remove items dynamically using JavaScript.
+**Product Details Page:** Individual product pages displaying product details, price, and reviews.
 
-
-**Product Details Page:**Individual product pages displaying product details, price, and reviews.
-
-
-**Description Page:**personal details of every products in description pag.
+**Description Page:** personal details of every products in description pag.
 
 
 🖼️ Website Link
