@@ -1,3 +1,3 @@
 # chumbak-web
 
-Chumbak Web is a responsive web application that brings the vibrancy and aesthetics of Chumbak products to life. This project focuses on showcasing products in an interactive and visually appealing manner, providing users with an intuitive and seamless experience.
+Chumbak Web is a vibrant, user-friendly e-commerce platform designed to reflect the lively and colorful spirit of Chumbak. The website serves as a digital extension of the brand, allowing users to explore a wide range of quirky and creative lifestyle products.
